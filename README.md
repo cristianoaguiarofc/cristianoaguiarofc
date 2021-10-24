@@ -1,4 +1,4 @@
-# Cristiano Andrade de Aguiar 👨‍💻
+# Cristiano Andrade de Aguiar
 Desenvolvedor back-end com a linguagem Java e Spring Boot ;)
 
 Trabalho atualmente na CI&T
@@ -22,5 +22,8 @@ Trabalho atualmente na CI&T
 <br/>
   
 ### Conecte-se comigo:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/cristiano-aguiar-8477b2192/
+[instagram]: https://www.instagram.com/cristianoaguiarofc/
