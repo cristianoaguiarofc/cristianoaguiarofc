@@ -20,6 +20,7 @@ Trabalho atualmente na CI&T
  <img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   
 <br/>
+<br/>
   
 ### Conecte-se comigo:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
