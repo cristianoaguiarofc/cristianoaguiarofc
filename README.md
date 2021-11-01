@@ -12,7 +12,6 @@ Trabalho atualmente na CI&T
 </div>
   
 <br/>
-<br/>
   
  ## Linguagens e ferramentas:
  <img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
