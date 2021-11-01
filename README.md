@@ -1,5 +1,5 @@
   
-## Cristiano Andrade de Aguiar
+# Cristiano Andrade de Aguiar
   
 Desenvolvedor back-end com a linguagem Java e Spring Boot ;)
 
@@ -11,8 +11,9 @@ Trabalho atualmente na CI&T
 </div>
   
 <br/>
+<br/>
   
- ### Linguagens e ferramentas:
+ ## Linguagens e ferramentas:
  <img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -23,7 +24,7 @@ Trabalho atualmente na CI&T
  <img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   
 <br/>
-<hr/>
+<br/>
   
 ### Conecte-se comigo:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
