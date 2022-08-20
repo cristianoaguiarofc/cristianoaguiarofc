@@ -1,7 +1,7 @@
   
 # Cristiano Andrade de Aguiar
   
-Desenvolvedor back-end as tecnologias Java, Spring Boot e Spring WebFlux ;)
+Desenvolvedor back-end com as tecnologias Java, Spring Boot e Spring WebFlux ;)
 
 Trabalho atualmente na CI&T
 
